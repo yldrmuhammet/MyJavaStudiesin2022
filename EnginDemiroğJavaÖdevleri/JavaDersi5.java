@@ -1,4 +1,4 @@
-public class JavaDersi5 {
+public class JavaDersi6 {
     public static void Main(String[] args) {
 
         int ogrenciSayisi = 12;
