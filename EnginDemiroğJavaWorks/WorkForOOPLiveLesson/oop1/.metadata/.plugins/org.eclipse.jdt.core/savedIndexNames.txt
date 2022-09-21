@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\muham\OneDrive\Masaüstü\VSC\Java2022EnginDemirog\oop1\.metadata\.plugins\org.eclipse.jdt.core
