@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class odev2 {
+public class odev1.1 {
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
