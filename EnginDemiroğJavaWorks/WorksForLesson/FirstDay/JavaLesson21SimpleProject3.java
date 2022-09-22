@@ -1,6 +1,6 @@
 package FirstDay;
 
-public class JavaLesson21SimpleProject {
+public class JavaLesson21SimpleProject3 {
     public static void main(String[] args) {
         int number = 28;
 

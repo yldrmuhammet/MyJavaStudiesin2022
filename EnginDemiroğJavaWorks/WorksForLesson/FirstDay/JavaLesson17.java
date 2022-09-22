@@ -1,9 +1,9 @@
 package FirstDay;
 
-public class JavaLesson7 {
+public class JavaLesson17 {
 
   public static void main(String[] args) {
-
+/* 
     int sayi = 12; // +2 milyon - milyon arası tam sayı tutar
     byte sayi1 = 12; // 1 bytelik -128 +128 arası tutar
     double sayi3 = 12.5; // Ondalıklı ifadeler için kullanırız
@@ -16,6 +16,6 @@ public class JavaLesson7 {
     char karakter = 'A'; // Tek karakter tutmak için kullanılır
 
     System.out.println("asda");
-
+*/
   }
 }

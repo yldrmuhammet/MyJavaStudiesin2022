@@ -1,6 +1,6 @@
 package FirstDay;
 
-public class JavaLesson4 {
+public class JavaLesson14 {
     public static void main(String[] args) {
         String ogrenci1 = "Engin";
         String ogrenci2 = "Derin";

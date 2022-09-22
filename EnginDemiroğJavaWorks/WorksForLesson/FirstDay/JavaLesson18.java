@@ -1,6 +1,6 @@
 package FirstDay;
 
-public class JavaLesson7_18 {
+public class JavaLesson18 {
     public static void main(String[] args) {
 
         // DERS 17

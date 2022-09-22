@@ -1,6 +1,6 @@
 package FirstDay;
 
-public class JavaLesson3 {
+public class JavaLesson13 {
     public static void main(String[] args) {
 
         // Do-While
