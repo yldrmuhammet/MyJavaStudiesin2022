@@ -1,4 +1,6 @@
-public class JavaDersi10 {
+package FirstDay;
+
+public class JavaLesson10 {
     public static void main(String[] args) {
 
         char grade = 'A';

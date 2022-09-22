@@ -1,18 +1,19 @@
-public class JavaDersi8 {
+package FirstDay;
+
+public class JavaLesson8 {
     public static void main(String[] args) {
 
         int sayi = 24;
 
-        if (sayi<20){
+        if (sayi < 20) {
             System.out.println("Sayı 20'den Küçüktür");
         }
 
-        else if(sayi == 20){
+        else if (sayi == 20) {
             System.out.println("Sayı 20'ye Eşittir");
-        }
-        else {
+        } else {
             System.out.println("Sayı 20'den büyüktür.");
         }
-        
+
     }
 }

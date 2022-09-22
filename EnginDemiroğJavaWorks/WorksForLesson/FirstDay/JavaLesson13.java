@@ -1,12 +1,14 @@
-public class JavaDersi13 {
+package FirstDay;
+
+public class JavaLesson3 {
     public static void main(String[] args) {
 
         // Do-While
         int i = 2;
         do {
-            
+
             System.out.println("Loglandı");
-            
+
             System.out.println(i);
             i += 2;
 

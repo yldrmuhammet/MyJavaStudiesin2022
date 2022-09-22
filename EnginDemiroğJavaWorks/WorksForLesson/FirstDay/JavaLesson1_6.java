@@ -1,4 +1,6 @@
-public class JavaDersi6 {
+package FirstDay;
+
+public class JavaLesson1_6 {
     public static void Main(String[] args) {
 
         int ogrenciSayisi = 12;
@@ -8,8 +10,7 @@ public class JavaDersi6 {
         System.out.println(mesaj + ogrenciSayisi);
         System.out.println("Öğrenci Sayim" + ogrenciSayisi);
         System.out.println("Öğrenci Sayim" + ogrenciSayisi);
-        System.out.println("Öğrenci Sayim "+ ogrenciSayisi);
+        System.out.println("Öğrenci Sayim " + ogrenciSayisi);
 
-        
     }
 }
