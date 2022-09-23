@@ -1,6 +1,3 @@
-
-package SecondDay;
-
 public class JavaLesson24Methods {
     public static void main(String[] args) {
 
