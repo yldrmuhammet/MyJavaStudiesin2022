@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WhileProject1 {
+public class WhileWorks1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

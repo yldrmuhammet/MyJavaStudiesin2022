@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class WhileProject2 {
+public class WhileWorks2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
