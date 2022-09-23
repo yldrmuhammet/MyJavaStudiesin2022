@@ -35,18 +35,41 @@ public class Main {
         patient1.setLastName("Dayı");
         patient1.setAge(45);
         patient1.setGender("Male");
-        patient1.setIdentificationNumber(555421235);
+        patient1.setIdentificationNumber(55421235);
         patient1.setRowNumber(1);
         patient1.setEmergenyStation("Red");
 
-        People[] people = { doctor1, nurse1, patient1 };
-        for (People peoples : people) {
-            System.out.println(doctor1.getTitle() + " " + doctor1.getFirstName() + " " + doctor1.getLastName() + "\n"
-                    + doctor1.getPoliclinic() + " " + doctor1.getProfession());
-            System.out.println(nurse1.getTitle() + " " + nurse1.getFirstName() + " " + nurse1.getLastName() + "\n"
-                    + nurse1.getPoliclinic() + " " + nurse1.getPlaceOfDuty());
-            System.out.println(patient1.getEmergenyStation() + " " + patient1.getFirstName() + " "
-                    + patient1.getLastName() + patient1.getRowNumber());
+        Patient[] patiets = { patient1 };
+
+        for (Patient patient : patiets) {
+            System.out.println(patient.getFirstName() + " " + patient.getLastName());
+            System.out.println(patient.getAge()+" " +patient.getGender());
+            System.out.println(patient.getIdentificationNumber());
+            System.out.println(patient.getRowNumber() + " " + patient.getEmergenyStation());
+            break;
+        }
+
+        System.out.println("--------------------------------");
+
+        Doctor[] doctors = { doctor1 };
+
+        for (Doctor doctor : doctors) {
+            System.out.println(doctor1.getTitle() + " " + doctor1.getFirstName() + " " + doctor.getLastName());
+            System.out.println(doctor1.getPoliclinic() + " " + doctor1.getProfession());
+            System.out.println(doctor1.getGender());
+            break;
+        }
+
+        System.out.println("--------------------------------");
+
+        Nurse[] nurses = { nurse1 };
+
+        for (Nurse nurse : nurses) {
+            System.out.println(nurse1.getTitle() + " " + nurse1.getFirstName() + " " + nurse1.getLastName());
+            System.out.println(nurse1.getPoliclinic() + " " + nurse1.getPlaceOfDuty() + " " + nurse1.getTitle());
+            System.out.println(nurse.getGender());
+            break;
+
         }
 
     }
