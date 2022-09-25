@@ -1,0 +1,2 @@
+public class JavaLesson36RecapDemoAgriculturalLoanManager extends JavaLesson36RecapDemoBaseLoanManager {
+}
