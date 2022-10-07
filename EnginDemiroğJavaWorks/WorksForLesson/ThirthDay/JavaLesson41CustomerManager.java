@@ -1,4 +1,4 @@
 package ThirthDay;
 
-public class JavaLesson41CustomerManager {
+public class JavaLesson41CustomerrManager {
 }
